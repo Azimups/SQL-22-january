@@ -1,0 +1,30 @@
+-- CREATE DATABASE Library
+-- USE Library
+-- CREATE TABLE Books(
+--     ID int primary key identity,
+--     Name NVARCHAR(35) NOT NULL,
+--     Type NVARCHAR(35) NOT NULL,
+--     Price FLOAT,
+-- )
+-- INSERT into Books
+-- VALUES ('SOMETHING TO HIDE','Historical',100)
+-- SELECT * FROM Books
+-- INSERT into Books
+-- VALUES ('Animal Farm','Political',50)
+-- INSERT into Books
+-- VALUES ('The Tipping Point','self-improvement',250)
+
+
+
+-- SELECT * FROM Books
+-- WHERE Name LIKE '%a%'
+
+
+-- SELECT * From Books
+-- ORDER BY Name
+
+
+
+-- SELECT * FROM Books
+-- WHERE Price>10
+-- ORDER BY Name DESC
